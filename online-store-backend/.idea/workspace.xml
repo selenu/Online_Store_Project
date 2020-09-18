@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="531a0502-f1b2-4917-85b8-12c5d453aebc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/onlineStore/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/onlineStore/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/onlineStore/repository/SalesManagerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/onlineStore/repository/SalesManagerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/DeliveryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/DeliveryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/onlineStore/repository/SalesManagerRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/schema.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="3f4dc17a-d43a-48a2-8854-c16ec6f52a8b" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cOp9wER32HM9KTFaTqobepEVPR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591126104091" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.OnlineStoreApplication">
+    <configuration name="OnlineStoreApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.6" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.onlineStore.OnlineStoreApplication" />
+      <module name="online-store-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.onlineStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="online-store-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.onlineStore.OnlineStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OnlineStoreApplication" />
+      <item itemvalue="Spring Boot.OnlineStoreApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineStoreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="531a0502-f1b2-4917-85b8-12c5d453aebc" name="Default Changelist" comment="" />
+      <created>1590399582721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590399582721</updated>
+      <workItem from="1591086661035" duration="11153000" />
+      <workItem from="1600462477307" duration="595000" />
+      <workItem from="1600463525858" duration="477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600463712348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600463712348" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600464005193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600464005193" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600464005193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600464005193" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600464005193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600464005193" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600464005193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600464005193" />
+  </component>
+</project>
